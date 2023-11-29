@@ -24,3 +24,9 @@ git remote add source https://github.com/legyss7/Test-Rep-1.git
 git push -u origin main
 git push -u source main
 
+
+
+git fetch --all
+
+она показывает изменения относительно последнего коммита ^main
+git log origin/main ^main
