@@ -17,3 +17,5 @@ git push -u origin main
 
 ## Добавили связь
 git remote add source https://github.com/legyss7/Test-Rep-1.git
+
+## Отправили в обе ветки
