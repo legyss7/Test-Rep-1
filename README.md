@@ -16,11 +16,12 @@ git remote add origin https://github.com/legyss7/Test-Rep-2.git
 git push -u origin main
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Добавили связь с именем переменной source
 git remote add source https://github.com/legyss7/Test-Rep-1.git
 
 
-
+## Отправили в обе ветки
 ## -u говорит какой ветки и какой репозиторий push 
 ## далее можно исользовать просто push
 git push -u origin main
@@ -34,3 +35,5 @@ git fetch --all
 git log origin/main ^main
 
 git merge  origin/main
+
+
