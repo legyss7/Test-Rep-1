@@ -17,3 +17,7 @@ git push -u origin main
 
 ## Добавили связь
 git remote add source https://github.com/legyss7/Test-Rep-1.git
+
+
+## -u говорит какой ветки и какой репозиторий push 
+## далее можно исользовать просто push
