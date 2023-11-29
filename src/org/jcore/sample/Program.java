@@ -1,9 +1,9 @@
 package testRep1.src.org.jcore.sample;
 
 public class Program {
-    //конфликт github
+    //github
     public static void main(String[] args) {
-        // конфликт local git
+        // конфликт git
         System.out.println("Hello!");
     }
 }
